@@ -1,0 +1,9 @@
+PRIMERO: Descarga la extensión de Python, puedes ver fácilmente la opción al seleccionar el archivo msx.py
+Segundo: Dale click al ejecutar 
+Tercero: Te aparecera una serie de opciones y la primera dira crear servidor, escribiras 1 y daras en enter
+Cuarto: Deberas escribír el tipo de software del server, si es forge, fabric, mohisth (o algo así dice, aunque en las preguntas aparecen las opciones, por eso las preguntas son para gente que no entiende cosas simples, pwro no es para ofender) y daras enter
+Quinto: Si entendiste la lógica del sistema solo tendras que hacer lo mismo que en los pasos anteriores, aviso las opciones que aparecen como [S/N] significa Si o No
+La S significa si y la N no
+NOTA IMPORTANTE: Si el server dice error en el intento de iniciar el server antes de empezar el proceso de descarga de los archivos 
+no te preocupes, en opciones del server elije la opción de reinstalar el tipo de servidor y reinstala el tipo de software y versión que elijas y cuando termine inicia el server, deberia continuar con normalidad.
+Listo, administra a tu gusto.
